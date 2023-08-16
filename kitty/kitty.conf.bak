@@ -1,0 +1,3 @@
+# Include *.conf files from all subdirs of kitty.d inside the kitty config dir
+globinclude kitty.d/**/*.conf
+
